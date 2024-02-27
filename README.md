@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Luiz Fernando 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizfernandosb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/luizfernandosb/](https://www.linkedin.com/in/luiz-fernando-sant-ana-bezerra-a9496b2b0/))
 [![LinkedIn](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://luizfernandosb.github.io/luizfernando-portfolio//)
 
 
