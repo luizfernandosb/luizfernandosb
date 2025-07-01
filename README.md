@@ -1,12 +1,11 @@
-### Olá! Eu sou o Luiz Fernando 👋
+### Hello! I'm Luiz Fernando 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizfsb/)
-[![LinkedIn](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://luizfernandosb.github.io/luizfernando-portfolio//)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://luizfernandosb.github.io/luizfernando-portfolio/)
 
 ![Luiz Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=luizfernandosb&show_icons=true&theme=dracula)
 
-### Tecnologias
+### Technologies
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfernandosb&hide_progress=compact)
 
@@ -19,5 +18,6 @@
 <img align="center" alt="EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </div><br/>
 
-Apaixonado por tecnologia desde criança, sempre quis saber como funcionava e como era feito programas, sites, por trás de tudo. Atualmento cursando Gestão de Tecnologia da Informação na Faculdade Estácio de Sá e neste momento estudando de forma autodidata atualmente ReactJS, NodeJS e Express, e assim eu vou, sempre em busca de mais e mais conhecimento na área da tecnologia.
-
+Passionate about technology since I was a child, I’ve always been curious about how programs and websites are made and how everything works behind the scenes.  
+I'm currently studying **Information Technology Management** at Estácio de Sá University and, at the same time, learning **ReactJS**, **NodeJS**, and **Express** as a self-taught developer.  
+I'm always striving to learn more and more in the tech world.
